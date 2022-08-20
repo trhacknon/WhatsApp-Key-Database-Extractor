@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor?color=informational&label=repo%20size">
-  <img src="https://tokei.rs/b1/github/yuvrajraghuvanshis/whatsapp-key-database-extractor?category=code">
-  <img src="https://img.shields.io/github/languages/top/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor">
-  <img src="https://img.shields.io/github/license/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor?label=license">
+  <img src="https://img.shields.io/github/repo-size/trhacknon/WhatsApp-Key-Database-Extractor?color=informational&label=repo%20size">
+  <img src="https://tokei.rs/b1/github/trhacknon/whatsapp-key-database-extractor?category=code">
+  <img src="https://img.shields.io/github/languages/top/trhacknon/WhatsApp-Key-Database-Extractor">
+  <img src="https://img.shields.io/github/license/trhacknon/WhatsApp-Key-Database-Extractor?label=license">
   <img src="https://img.shields.io/badge/depends-JAVA-informational">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuvrajraghuvanshis%2Fwhatsapp-key-database-extractor&count_bg=%233D64C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 </p>
@@ -20,8 +20,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor">
-    <img src="https://raw.githubusercontent.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor/master/helpers/banner.png" alt="Logo" width="320" height="100">
+  <a href="https://github.com/trhacknon/WhatsApp-Key-Database-Extractor">
+    <img src="https://raw.githubusercontent.com/trhacknon/WhatsApp-Key-Database-Extractor/master/helpers/banner.png" alt="Logo" width="320" height="100">
   </a>
 
   <h3 align="center">WhatsApp Key/Database Extractor</h3>
@@ -54,7 +54,7 @@
 
 ## About The Project
 
-<!--[![Glimpse][product-screenshot]](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor)-->
+<!--[![Glimpse][product-screenshot]](https://github.com/trhacknon/WhatsApp-Key-Database-Extractor)-->
 
 This project is inspired by [EliteAndroidApps/WhatsApp-Key-DB-Extractor](https://github.com/EliteAndroidApps/WhatsApp-Key-DB-Extractor). Since Android v4.0+ Google has removed adb backup and apps no longer supported being backed up by "adb backup -f myApp.ab -apk com.foobar.app". However there is one catch in this scenario and that is some old version of many apps including WhatsApp support that to this day, and that's the idea...
 
@@ -85,7 +85,7 @@ After [installation](#installation-for-pipreleases-specific-instructions-go-to-b
 
 ### Prerequisites
 
-* O/S: Any Windows/Mac/Linux. Do not have access to any of these? Try [Termux Edition.](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor/tree/termux) 
+* O/S: Any Windows/Mac/Linux. Do not have access to any of these? Try [Termux Edition.](https://github.com/trhacknon/WhatsApp-Key-Database-Extractor/tree/termux) 
 * [Python 3.x](https://www.python.org/downloads/)
 * [Java](https://www.java.com/en/download/)
 * USB Debugging must be enabled on the target device. Settings &#8594; Developer Options &#8594; USB debugging.
@@ -94,11 +94,11 @@ After [installation](#installation-for-pipreleases-specific-instructions-go-to-b
 
 
 
-### Installation (for pip/releases specific instructions go to [builds](https://github.com/YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor/tree/builds) branch)
+### Installation (for pip/releases specific instructions go to [builds](https://github.com/trhacknon/WhatsApp-Key-Database-Extractor/tree/builds) branch)
 
 1. Clone the repo
 ```bash
-git clone https://github.com/YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor.git && cd WhatsApp-Key-Database-Extractor
+git clone https://github.com/trhacknon/WhatsApp-Key-Database-Extractor.git && cd WhatsApp-Key-Database-Extractor
 ```
 2. Install dependencies (for linux and OSX only): skip `sudo` for mac.
 ```bash
@@ -162,7 +162,7 @@ Note that TCP mode and USB mode are mutually exclusive. Either use with TCP mode
 
 Following gif shows the output of `python3 wa_kdbe.py -ar -s -to`
 
-<img src="https://raw.githubusercontent.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor/master/non_essentials/wa-kdbe.gif" alt="Project GIF">
+<img src="https://raw.githubusercontent.com/trhacknon/WhatsApp-Key-Database-Extractor/master/non_essentials/wa-kdbe.gif" alt="Project GIF">
 
 ### Troubleshooting
 
@@ -190,7 +190,7 @@ Following gif shows the output of `python3 wa_kdbe.py -ar -s -to`
 
 ## Roadmap
 
-See the [open issues](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/trhacknon/WhatsApp-Key-Database-Extractor/issues) for a list of proposed features (and known issues).
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -229,11 +229,11 @@ This tool is provided "as-is" and hence you will be responsible however you use 
 
 ## Contact
 
-Yuvraj Raghuvanshi - [@Yuvraj_R_S](https://twitter.com/Yuvraj_R_S) - [Send me a mail](mailto:YuvrajRaghuvanshi.S%40protonmail.com?subject=From%20GitHub%20WA-KDBE%20:%20%3CAdd%20subject%20here.%3E "Send me a mail, Don't change subject line.")
+Yuvraj Raghuvanshi - [@Yuvraj_R_S](https://twitter.com/Yuvraj_R_S) - [Send me a mail](mailto:jeremydiliotti@gmail.com?subject=From%20GitHub%20WA-KDBE%20:%20%3CAdd%20subject%20here.%3E "Send me a mail, Don't change subject line.")
 
-Project Link: [https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor](https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor)
+Project Link: [https://github.com/trhacknon/WhatsApp-Key-Database-Extractor](https://github.com/trhacknon/WhatsApp-Key-Database-Extractor)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-[license-url]: https://github.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor/blob/master/LICENSE
-[product-screenshot]: https://raw.githubusercontent.com/yuvrajraghuvanshis/WhatsApp-Key-Database-Extractor/master/helpers/banner.png
+[license-url]: https://github.com/trhacknon/WhatsApp-Key-Database-Extractor/blob/master/LICENSE
+[product-screenshot]: https://raw.githubusercontent.com/trhacknon/WhatsApp-Key-Database-Extractor/master/helpers/banner.png
